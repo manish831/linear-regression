@@ -9,7 +9,9 @@ the implementation of linear regression based on a dataset of single variable.
 2. we will use concept of fit algorithms which is implemented in scikitlearn
 3. We will also split our data into x_train, x_test, y_train, y_test 
 4. We plotted various graphs based on predicted y's and actual y using matplotlib.
-
+## Sample Graph 1
 ![Sample picture 1](https://github.com/eaz-yeah/linear-regression/blob/main/photo1.png)
+## Sample Graph 2
 ![Sample picture 2](https://github.com/eaz-yeah/linear-regression/blob/main/photo2.png)
+## Sample Graph 3
 ![Sample picture 3](https://github.com/eaz-yeah/linear-regression/blob/main/photo3.png)
